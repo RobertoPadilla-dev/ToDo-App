@@ -1,3 +1,4 @@
+//Function to delete the task
 const deleteIcon = () => {
   const i = document.createElement("i");
   i.classList.add("fas", "fa-trash-alt", "trashIcon", "icon");
